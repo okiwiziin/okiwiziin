@@ -1,5 +1,3 @@
-# kiwizin
-
 ## Hi, my name is Kiwizin.
 
 Welcome to my GitHub profile.
