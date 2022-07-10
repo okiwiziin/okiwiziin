@@ -4,7 +4,7 @@ Welcome to my GitHub profile.
 
 [![Twitter Badge](https://img.shields.io/badge/-@okiwizin-3333ff?style=flat-square&labelColor=3333ff&logo=twitter&logoColor=white&link=https://twitter.com/okiwizin)](https://twitter.com/okiwizin)
 
-## Technologies
+<!--## Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -16,6 +16,7 @@ Welcome to my GitHub profile.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+-->
 
 </br>
 <div>
